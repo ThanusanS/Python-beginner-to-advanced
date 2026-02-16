@@ -9,6 +9,7 @@ greet("bcd")
 
 
 
+
 def fname(firstName,LastName):
     fullName= firstName+LastName
     return fullName
