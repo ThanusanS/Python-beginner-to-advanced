@@ -1,0 +1,127 @@
+python-beginner-to-advanced/
+│
+├── 00-README/
+│   └── README.md                  
+│
+├── 01-Basics/
+│   ├── syntax/
+│   │   └── examples.py            # Basic syntax, print, variables, comments
+│   ├── data-types/
+│   │   └── examples.py            # Strings, numbers, lists, tuples, sets, dicts
+│   ├── operators/
+│   │   └── examples.py            # Arithmetic, comparison, logical, bitwise
+│   └── input-output/
+│       └── examples.py            # input(), print(), file handling basics
+│
+├── 02-Control-Flow/
+│   ├── conditionals/
+│   │   └── if_else_examples.py
+│   ├── loops/
+│   │   └── for_while_examples.py
+│   └── comprehension/
+│       └── list_dict_set_comprehension.py
+│
+├── 03-Functions/
+│   ├── basics/
+│   │   └── functions.py
+│   ├── arguments/
+│   │   └── args_kwargs.py
+│   ├── recursion/
+│   │   └── recursion_examples.py
+│   └── lambda-map-filter/
+│       └── functional_examples.py
+│
+├── 04-OOP/
+│   ├── classes_objects/
+│   │   └── basics.py
+│   ├── inheritance/
+│   │   └── inheritance_examples.py
+│   ├── polymorphism/
+│   │   └── polymorphism_examples.py
+│   ├── encapsulation/
+│   │   └── encapsulation_examples.py
+│   └── special_methods/
+│       └── magic_methods.py
+│
+├── 05-Modules-Packages/
+│   ├── standard-library/
+│   │   └── os_sys_datetime.py
+│   ├── third-party/
+│   │   └── requests_numpy_pandas.py
+│   └── custom-modules/
+│       └── mymodule.py
+│
+├── 06-File-Handling/
+│   ├── text-files/
+│   │   └── read_write_txt.py
+│   ├── csv-json/
+│   │   └── csv_json_examples.py
+│   └── advanced/
+│       └── context_manager_examples.py
+│
+├── 07-Error-Handling/
+│   ├── exceptions/
+│   │   └── try_except.py
+│   └── custom-exceptions/
+│       └── custom_exception.py
+│
+├── 08-Advanced-Concepts/
+│   ├── decorators/
+│   │   └── decorators_examples.py
+│   ├── generators-iterators/
+│   │   └── generators_iterators.py
+│   ├── context-managers/
+│   │   └── context_manager.py
+│   ├── multithreading-multiprocessing/
+│   │   └── concurrency_examples.py
+│   ├── type-hinting/
+│   │   └── type_hints.py
+│   └── metaclasses/
+│       └── metaclass_examples.py
+│
+├── 09-Data-Science-ML/
+│   ├── numpy/
+│   │   └── numpy_examples.py
+│   ├── pandas/
+│   │   └── pandas_examples.py
+│   ├── matplotlib-seaborn/
+│   │   └── visualization.py
+│   ├── scikit-learn/
+│   │   └── ml_examples.py
+│   └── projects/
+│       ├── salary-estimation-knn/
+│       │   └── salary_knn.py
+│       └── object-detection/
+│           └── object_detection.py
+│
+├── 10-Web-Development/
+│   ├── flask/
+│   │   └── app.py
+│   ├── django/
+│   │   └── project/
+│   └── projects/
+│       └── bus-booking-system/
+│           └── app/
+│
+├── 11-Automation-Scripts/
+│   ├── web-scraping/
+│   │   └── scraper.py
+│   ├── file-automation/
+│   │   └── file_manager.py
+│   └── email-automation/
+│       └── send_email.py
+│
+├── 12-Projects/
+│   ├── project-1/
+│   ├── project-2/
+│   └── project-3/
+│
+├── 13-Resources/
+│   ├── cheat-sheets/
+│   ├── books/
+│   ├── tutorials/
+│   └── videos/
+│
+├── .gitignore
+├── requirements.txt
+└── README.md
